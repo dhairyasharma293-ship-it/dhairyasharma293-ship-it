@@ -1,3 +1,5 @@
+<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/ffbcbc8c-78bb-4d86-bd40-684e6a3185ac" />
+
 # 👋 Hi, I'm Dhairya Sharma
 
 ### 🎓 CS Student @ Jagannath University, Jaipur | Aspiring AI/ML Engineer
