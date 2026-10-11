@@ -62,7 +62,7 @@ As a first-year student, I am heavily focused on solidifying my computer science
 If you're interested in collaborating on mobile apps, discussing artificial intelligence, or just geek out over code commits, feel free to reach out!
 
 *   💼 **LinkedIn**: [Dhairya Sharma](https://www.linkedin.com/in/dhairya-sharma/) <!-- Update with your actual URL -->
-*   ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com) <!-- Update with your actual Email -->
+*   ✉️ **Email**: [your.email@example.com](dhairyasharma293@gmail.com) <!-- Update with your actual Email -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhairya's GitHub Stats" /> 
